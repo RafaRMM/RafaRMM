@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaRMM
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Back-end
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me @raffaell_rmm
+- 📫 How to reach me @raffaell_rmm on instagram!
 
 <!---
 RafaRMM/RafaRMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
